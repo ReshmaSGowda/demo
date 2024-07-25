@@ -15,6 +15,7 @@ import main.PageObjects.CartPage;
 import main.PageObjects.OrdersPage;
 
 public class AbstractComponents {
+//adding comments for CICD testing
 	WebDriver driver;
 	public  AbstractComponents(WebDriver driver)
 	{
